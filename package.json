@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/jasonamyers/macerate/issues"
   },
-  "homepage": "https://github.com/jasonamyers/macerate#readme"
+  "homepage": "https://github.com/jasonamyers/macerate#readme",
+  "dependencies": {
+    "event-stream": "^3.3.2"
+  }
 }
